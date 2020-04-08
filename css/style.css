@@ -1,0 +1,10 @@
+#paintbox {
+    width: 500px;
+    height: 500px;
+    border: dotted black 1px;
+    background-color: lightgray;
+}
+
+h1 {
+    color:brown;
+}
